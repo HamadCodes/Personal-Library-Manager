@@ -1,0 +1,1 @@
+[{"title": "The Midnight Library", "author": "Matt Haig", "year": 2020, "genre": "Fiction/Fantasy", "read": true}, {"title": "Educated", "author": "Tara Westover", "year": 2018, "genre": "Memoir", "read": false}, {"title": "Project Hail Mary", "author": "Andy Weir", "year": 2021, "genre": "Science Fiction", "read": true}]
